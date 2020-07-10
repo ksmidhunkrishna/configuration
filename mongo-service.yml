@@ -1,5 +1,5 @@
 config:
-  env: default
+  env: xxx
 
 spring:
   data:
