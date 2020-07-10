@@ -2,5 +2,10 @@
 config:
   env: dev
 
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/batchdb
+
 
 
